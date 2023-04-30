@@ -2,8 +2,6 @@
     <img src="https://s11.gifyu.com/images/king.gif" height="25px">
 </h2>
 
-<h2 align="center">Skills</h2>
-
 <p align="center">
     <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=solidity,go,py,js,vscode" />
