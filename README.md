@@ -1,16 +1,16 @@
-### Hi there 👋
+<h2 align="center">
+    <img src="https://s11.gifyu.com/images/king.gif" height="25px">
+</h2>
 
-<!--
-**0x4e33/0x4e33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2 align="center">Skills</h2>
 
-Here are some ideas to get you started:
+<p align="center">
+    <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=solidity,go,py,js,vscode" />
+    </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+    <img alt="" src="https://github-readme-stats.vercel.app/api?username=0x4E33&show_icons=true&theme=tokyonight&hide_border=true">
+</p>
+
